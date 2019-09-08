@@ -1,3 +1,4 @@
+# CS2302, Airam A Martinez, Lab1(Option A), Diego Aguirre, Gerardo Barraza, 9/8/2019
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import praw
